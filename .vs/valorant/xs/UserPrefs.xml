@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AFEAC897-FBDB-4984-9176-190CACE1B4C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="valorant/Maps.cs">
+    <Files>
+      <File FileName="valorant/XP.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="6" Column="6" />
+      <File FileName="valorant/Maps.cs" Line="9" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="valorant" expanded="True">
+            <Node name="valorant" expanded="True">
+              <Node name="valorant" expanded="True">
+                <Node name="Maps.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.valorant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

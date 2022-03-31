@@ -2,12 +2,12 @@
 
 namespace valorant
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.Clear();
-      Valorant.XP(0, new int[] { 20, 30, 35, 40, 45, 50 }, new DateTime(2022, 1, 15));
+        static void Main(string[] _)
+        {
+            Console.Clear();
+            Valorant.XP(0, new int[] { 20, 30, 35, 40, 45, 50 }, new DateTime(2022, 1, 15));
+        }
     }
-  }
 }
